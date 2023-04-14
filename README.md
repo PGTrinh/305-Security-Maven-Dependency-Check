@@ -1,6 +1,3 @@
-# CS-305
-Repository for CS-305: Software Security
-
 ## 1. Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
  My customer was Artemis Financial, a financial consulting company that develops individualized financial plans for clients in areas including savings, retirement, investments, and insurance. To ensure secure communication, they were interested in integrating a file verification mechanism into their web application.
 
